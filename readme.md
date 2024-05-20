@@ -11,5 +11,6 @@
 
 
 #### References
- [Darshil's SQL Tutorial] (https://publish.obsidian.md/datavidhya/Course+Notes/SQL/28.+Instagram+Data+Model+Project )
- [Darshil's youtube Channel] (https://www.youtube.com/@DarshilParmar)
+ [Darshil's SQL Tutorial] (https://publish.obsidian.md/datavidhya/Course+Notes/SQL/28.+Instagram+Data+Model+Project "Darshil's SQL Tutorial" )
+ 
+ [Darshil's youtube Channel] (https://www.youtube.com/@DarshilParmar "Darshil's youtube Channel")
