@@ -11,7 +11,7 @@
 
 #### Data Model 
 
-![Instagram_Data_Model](/insta-data-analysis/Insta-data-model.png)
+![Instagram_Data_Model](https://github.com/debabratabar/insta-data-analysis/blob/master/Insta-data-model.png)
 
 
 #### References
